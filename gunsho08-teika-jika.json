@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/teika-jikaawase",
  "yomi": "ていかきょうじかあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "自歌合（二十四番・四十八首）",
+  "era": "未詳",
+  "author": "藤原定家（自撰）",
+  "desc": "定家が生涯の詠から四十八首を抜き出し、阿弥陀の四十八願になぞらえて二十四番に番えた自歌合。序に、滅罪生善のはかりごととし、子孫のために記すと述べる。判はない。"
+ },
  "editions": [
   {
    "pid": "1879502",
